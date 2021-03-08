@@ -1,0 +1,7 @@
+{
+  "name": "Alzaid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
