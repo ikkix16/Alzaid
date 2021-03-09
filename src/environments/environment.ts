@@ -8,13 +8,13 @@ export const environment = {
 
 export  const 
 firebaseConfig = {
-    apiKey: "AIzaSyBmoAU2jfUqnRYLHCRhxBf8vYONoYwHDto",
-    authDomain: "alzheimerapp-4fc44.firebaseapp.com",
-    projectId: "alzheimerapp-4fc44",
-    storageBucket: "alzheimerapp-4fc44.appspot.com",
-    messagingSenderId: "714892732929",
-    appId: "1:714892732929:web:3062dcd5d61bf291b02e00",
-    measurementId: "G-7YVQ6P15K5"
+  apiKey: "AIzaSyBmoAU2jfUqnRYLHCRhxBf8vYONoYwHDto",
+  authDomain: "alzheimerapp-4fc44.firebaseapp.com",
+  projectId: "alzheimerapp-4fc44",
+  storageBucket: "alzheimerapp-4fc44.appspot.com",
+  messagingSenderId: "714892732929",
+  appId: "1:714892732929:web:2e814312aa9e0ab3b02e00",
+  measurementId: "G-TGPR61N7RT"
   };
 
 /*
